@@ -1,0 +1,22 @@
+{
+  "name": "node-performance",
+  "version": "1.0.0",
+  "description": "Node optimization boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewlarry/node-performance.git"
+  },
+  "author": "Andrew Fuselier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewlarry/node-performance/issues"
+  },
+  "homepage": "https://github.com/andrewlarry/node-performance#readme",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
